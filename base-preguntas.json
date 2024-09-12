@@ -1,0 +1,37 @@
+[
+    {
+        "categoria": "Estadistica",
+        "pregunta": "La siguiente gráfica muestra la trayectoria de dos carros en carretera. Obsérvela, analicela y luego responda la pregunta ¿Qué diferencia en km le lleva el carro 2 al carro 1 a las 6 horas de trayectoria?",
+        "respuesta": "120km",
+        "incorrecta1": "480km",
+        "incorrecta2": "360km",
+        "imagen": "img/item17-recotte.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Estadistica",
+        "pregunta": "La tabla muestra la temperatura (en grados centigrados) para algunos departamentos. Para los departamentos de la tabla, ¿Cuál es el promedio de las temperaturas máximas?",
+        "respuesta": "Aproximadamente 28°C",
+        "incorrecta1": "Aproximadamente 18°C",
+        "incorrecta2": "Aproximadamente 25°C",
+        "imagen": "img/item18-recorte.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Estadistica",
+        "pregunta": "Resuelva la siguiente operación",
+        "respuesta": "-1/10",
+        "incorrecta1": "-15/22",
+        "incorrecta2": "-21/208",
+        "imagen": "img/item4-recorte.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Estadistica",
+        "pregunta": "Para una rifa se pusieron a la venta 500 números, pero se aclaró que solo los números vendidos entraban a sorteo. En total se vendieron 420 números, de los cuales Luisa compró 21. ¿Qué probabilidad tiene Luisa de ganar la rifa?",
+        "respuesta": "5.0 %",
+        "incorrecta1": "4.2 %",
+        "incorrecta2": "20.0 %",
+        "objectFit": "contain"
+    }
+]
